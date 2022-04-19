@@ -1,5 +1,5 @@
 (footprint "CP_Rect_L42.0mm_T20.0mm_H40.0mm" (version 20210925) (generator pcbnew) (layer "F.Cu")
-  (tedit 625C00E7)
+  (tedit 625EB753)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -15,4 +15,9 @@
   (pad "1" thru_hole circle (at -18.75 5.1) (size 4.5 4.5) (drill 1.8) (layers *.Cu *.Mask) (tstamp 71bd2294-732e-437d-9e3e-7aa14ebb8133))
   (pad "2" thru_hole circle (at 18.75 -5.1) (size 4.5 4.5) (drill 1.8) (layers *.Cu *.Mask) (tstamp 0bd26eb9-75c5-4e3a-b299-608d6c54b755))
   (pad "2" thru_hole circle (at 18.75 5.1) (size 4.5 4.5) (drill 1.8) (layers *.Cu *.Mask) (tstamp f1d9f023-01c2-454c-9fee-1e5e3d412c92))
+  (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L41.5mm_W20.0mm_P37.50mm_MKS4.step"
+    (offset (xyz -19 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
