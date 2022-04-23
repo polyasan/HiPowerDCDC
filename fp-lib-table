@@ -4,4 +4,5 @@
   (lib (name "Inductor_SMD")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/Inductor_SMD.pretty")(options "")(descr ""))
   (lib (name "Sensor_Current")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/Sensor_Current.pretty")(options "")(descr ""))
   (lib (name "HiPowerFP")(type "KiCad")(uri "${KIPRJMOD}/HiPowerFP.pretty")(options "")(descr ""))
+  (lib (name "Laci")(type "KiCad")(uri "${KIPRJMOD}/Laci.pretty")(options "")(descr ""))
 )
