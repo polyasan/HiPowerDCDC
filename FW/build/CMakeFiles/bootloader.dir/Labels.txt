@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/bulacko/Documents/git/HiPowerDCDC/FW/build/CMakeFiles/bootloader
+/Users/bulacko/Documents/git/HiPowerDCDC/FW/build/CMakeFiles/bootloader.rule
+/Users/bulacko/Documents/git/HiPowerDCDC/FW/build/CMakeFiles/bootloader-complete.rule
+/Users/bulacko/Documents/git/HiPowerDCDC/FW/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/bulacko/Documents/git/HiPowerDCDC/FW/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/bulacko/Documents/git/HiPowerDCDC/FW/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/bulacko/Documents/git/HiPowerDCDC/FW/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/bulacko/Documents/git/HiPowerDCDC/FW/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/bulacko/Documents/git/HiPowerDCDC/FW/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/bulacko/Documents/git/HiPowerDCDC/FW/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
