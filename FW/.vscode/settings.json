@@ -1,3 +1,9 @@
 {
-    "idf.adapterTargetName": "esp32"
+    "idf.adapterTargetName": "esp32s2",
+    "idf.port": "/dev/cu.usbserial-0212A7FC",
+    "idf.flashType": "UART",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32s2.cfg"
+    ]
 }
